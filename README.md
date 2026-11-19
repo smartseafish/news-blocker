@@ -29,7 +29,7 @@
 
 ## 🔍 How News Blocker Compares
 
-| Feature | News Blocker (MV3) | Legacy News Blocker (`orestes`, MV2) | Block News Websites | News Feed Eradicator |
+| Feature | News Blocker (MV3) | Legacy News Blocker (`orestes`, MV2) | Block News Websites | Any others News Feed Eradicator |
 | :--- | :---: | :---: | :---: | :---: |
 | **Manifest V3 Active Support** | ✅ Yes | ❌ Discontinued / Removed | ⚠️ Whole-site only | ⚠️ Social feeds only |
 | **Block Entire News Websites** | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
