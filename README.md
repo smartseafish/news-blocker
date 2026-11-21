@@ -4,6 +4,8 @@
 
 * **Official Website:** [newsblocker.pages.dev](https://newsblocker.pages.dev/)
 * **Chrome Web Store:** **[Install Free on Chrome Web Store](https://chromewebstore.google.com/detail/news-blocker/empnlkhnmjkinpbepiiigmmbenlhpmda)** *(supports Google Chrome, Microsoft Edge, Brave, and Vivaldi)*
+* html
+<ahref="https://www.producthunt.com/products/news-blocker?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-news-blocker"target="_blank"rel="noopener noreferrer"><imgalt="News Blocker - Block news&amp; toxic headlines in one click, 100% locally | Product Hunt"width="250"height="54"src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1323153&amp;theme=light&amp;t=1795103082067"></a>
 * **Privacy Policy:** [newsblocker.pages.dev/privacy-policy](https://newsblocker.pages.dev/privacy-policy)
 
 ---
